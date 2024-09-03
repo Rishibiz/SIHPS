@@ -1,10 +1,10 @@
 # Smart India Hackathon Workshop
 
-# Date: 9/5/2024
+# Date: 2/8/2024
 
-## Register Number:212223040091
+## Register Number: 24900302
 
-## Name:KAVIYA SNEKA M
+## Name: Rishi chandran R
 
 ## Problem Title
 E-Waste Facility Locator
@@ -21,12 +21,14 @@ The webpage can be used to report sightings of harmfull waste lying in public, w
 
 ## Proposed Solution / Architecture Diagram
 
-![psi](https://github.com/Mohammed-Saajid/SIHPS/assets/141727149/e958c35a-702e-4534-8951-e32a56b04a97)
+![image](https://github.com/user-attachments/assets/56f01a90-4ae6-486f-8db1-4c5014419a28)
+
 
 
 ## Use Cases
 
-![psii](https://github.com/Mohammed-Saajid/SIHPS/assets/141727149/a546f49f-e8c2-439c-95b0-a49b8e023a08)
+![image](https://github.com/user-attachments/assets/0984dac7-2111-4cab-b781-f7e51c437567)
+
 
 
 ## Technology Stack
