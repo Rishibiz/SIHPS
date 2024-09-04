@@ -1,50 +1,75 @@
 # Smart India Hackathon Workshop
 
-# Date: 2/8/2024
+# Date: 4/8/2024
 
 ## Register Number: 24900302
 
 ## Name: Rishi chandran R
 
 ## Problem Title
-E-Waste Facility Locator
+Development of e-Portal for facilitating Case Management Hearing of various types of cases
 ## Problem Description
-Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
+Case Management Hearing, known as a Pre-Trial Conference" in other jurisdictions". This application is used for managing case files since filing to disposal and to complete all its related processes. The CMS keeps the records of all the cases filed in Delhi High Court. The system has following features: Filing of Case, Caveat matching, Allocation of case, Daily Case Proceedings, Notice Generation, Case Transfer, Case Status Search, Report, etc.
 ## Problem Creater's Organization
-Ministry of Environment
+Ministry of Law and Justice
 
 ## Idea
 
-To create a web platform that connects users with nearby e-waste collection facilities and educates them about the importance of proper e-waste disposal. It gamifies the process by rewarding users with points based on the estimated precious metals recovered from their devices.
+1.Filing of Case: Allows users to submit new cases electronically, ensuring that all required documents and details are collected and recorded in a digital format.
 
-The webpage can be used to report sightings of harmfull waste lying in public, when users report these sightings, and when such waste gets cleared up Both the reporter and the cleaner gets a small sum of points, which can be redeemed for useful rewards in the webpage. The webpage features a Local map, which will display the density and the amount of waste in a given area using the intensity of colours, It also allows Cleaner groups to form groups within them and work as a team, This colabrative work gains more points to Each of the cleaner.
+2.Caveat Matching: Facilitates the checking of caveats (legal notices) to ensure that the relevant parties are notified before any proceedings are carried out.
+
+3.Allocation of Case: Manages the assignment of cases to appropriate judges or legal teams based on predefined criteria or random allocation.
+
+4.Daily Case Proceedings: Provides a way to record and track daily updates, hearings, and proceedings related to each case.
+
+5.Notice Generation: Automates the creation and distribution of legal notices and other communications to parties involved in the case
+
+6.Case Transfer: Supports the transfer of cases between different judges, courts, or jurisdictions as necessary.
+
+7.Case Status Search: Enables users to search and view the current status of any case within the system, including updates and historical data.
+
+8.Report Generation: Produces various reports related to case management, including statistics, case summaries, and performance metrics.
 
 ## Proposed Solution / Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/56f01a90-4ae6-486f-8db1-4c5014419a28)
+
+![image](https://github.com/user-attachments/assets/1a907d63-b60d-45da-b45e-ccf6f41e1b97)
+
 
 
 
 ## Use Cases
 
-![image](https://github.com/user-attachments/assets/0984dac7-2111-4cab-b781-f7e51c437567)
+![image](https://github.com/user-attachments/assets/fd227e9d-9a4e-45a5-9776-b508204694a5)
+
 
 
 
 ## Technology Stack
 
-### Frontend:
-Programming Language: HTML, CSS, JavaScript Framework: ReactJS, AngularJS, Vue.js (for interactivity) Mapping Library: Leaflet, Google Maps API
+1.React.js or Angular
 
-### Backend:
-Programming Language: Python, Java, Node.js Database: PostgreSQL, MongoDB APIs: Google Maps API for location services (optional)
+2.Node.js
 
-### Mobile App (Optional):
-To Develop a mobile app for on-the-go access to features.
+3.PostgreSQL
+
+4.GraphQL
+
+5.MongoDB
+
+6.Git , Postman or Insomnia
 
 ## Dependencies
+1.Planning and Analysis: 2-4 weeks
 
-A reliable web hosting service. (3 days to create)
-A third-party service or internal database for estimating precious metal content in various devices. ( a week to get permissions and a month for estimating the metal amount)
-Payment processing gateway (optional) if points are redeemable for rewards.(money fundings from government)
+Design and Development: 12-20 weeks
+
+Testing and Quality Assurance: 4-6 weeks
+
+Deployment and Rollout: 2-4 weeks
+
+Training and Support: 2-3 weeks
+
+2.Budget- Rs15,500,000 INR
 
